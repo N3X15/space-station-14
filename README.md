@@ -1,4 +1,4 @@
-<p align="center"><img alt="VG Station 14" width="880" height="300" src="https://raw.githubusercontent.com/space-wizards/asset-dump/de329a7898bb716b9d5ba9a0cd07f38e61f1ed05/github-logo.svg" /></p><!-- TODO: Logo -->
+<p align="center"><img alt="/vg/ Station 14" width="880" height="300" src="docs/ss14.svg" /></p>
 
 Space Station 14 is a remake of SS13 that runs on [Robust Toolbox](https://github.com/space-wizards/RobustToolbox), a homegrown engine written in C#.
 
